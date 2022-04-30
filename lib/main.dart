@@ -1,6 +1,6 @@
 // ignore_for_file: avoid_print
 
-import 'package:firebase_app/ApplicationStateProvider.dart';
+import 'package:firebase_app/application_state_provider.dart';
 import 'package:firebase_app/authentication.dart';
 import 'package:firebase_app/widgets.dart';
 import 'package:firebase_core/firebase_core.dart';
